@@ -1,0 +1,350 @@
+
+Processing eng dataset...
+Total sentences loaded: 1921698
+
+Counting 2-grams...
+
+Top 2-grams for eng:
+don t: 76305
+do that: 75363
+to do: 72852
+didn t: 62745
+i m: 53829
+in the: 49063
+i don: 37837
+of the: 36562
+to be: 34071
+it s: 32624
+do you: 32321
+going to: 31421
+want to: 31298
+isn t: 31002
+is a: 29156
+doesn t: 27936
+to the: 27759
+
+Counting 3-grams...
+
+Top 3-grams for eng:
+to do that: 50162
+i don t: 37835
+i didn t: 16945
+don t think: 13183
+t want to: 12219
+said that he: 10178
+didn t know: 10123
+tom doesn t: 10086
+i can t: 9551
+i m not: 9355
+a lot of: 7990
+don t know: 7743
+tom is a: 7398
+i want to: 7280
+
+Counting 4-grams...
+
+Top 4-grams for eng:
+i don t think: 12459
+don t think that: 5616
+i don t know: 5603
+i know that tom: 5041
+didn t want to: 4907
+i didn t know: 4798
+and mary said they: 4572
+don t want to: 4533
+i m going to: 4208
+i don t want: 4189
+able to do that: 3610
+have to do that: 3607
+don t think tom: 3530
+want to do that: 3411
+tom and mary were: 3317
+i think that tom: 3166
+t think that tom: 3150
+
+Processing fra dataset...
+Total sentences loaded: 632505
+
+Counting 2-grams...
+
+Top 2-grams for fra:
+j ai: 25015
+c est: 24802
+je ne: 21592
+de la: 15299
+je suis: 13634
+ce que: 13531
+est ce: 12133
+n est: 11854
+à la: 11846
+qu il: 11583
+il a: 11086
+je n: 10962
+que tu: 10877
+de l: 10677
+il est: 10490
+que je: 9934
+y a: 9465
+à l: 9391
+est pas: 8072
+est un: 7711
+
+Counting 3-grams...
+
+Top 3-grams for fra:
+n est pas: 7442
+est ce que: 6561
+je n ai: 6003
+il y a: 5712
+ce que tu: 3856
+n a pas: 3622
+n ai pas: 3621
+c est un: 3266
+ce n est: 3184
+il n y: 3073
+je ne suis: 2717
+qu est ce: 2623
+a t il: 2579
+tout le monde: 2561
+je ne peux: 2559
+c est une: 2513
+ce qu il: 2486
+ne peux pas: 2459
+n y a: 2424
+ne suis pas: 2345
+
+Counting 4-grams...
+
+Top 4-grams for fra:
+je n ai pas: 3611
+ce n est pas: 2613
+il n y a: 2364
+je ne suis pas: 2336
+est ce que tu: 2321
+je ne peux pas: 1937
+n est ce pas: 1857
+je ne sais pas: 1621
+s il vous plaît: 1550
+qu est ce que: 1388
+y a t il: 1279
+je ne veux pas: 1260
+n y a pas: 1169
+il n a pas: 1064
+s il te plaît: 1039
+il n est pas: 1030
+est ce que vous: 937
+n arrive pas à: 931
+je n aime pas: 893
+je n arrive pas: 860
+
+Processing spa dataset...
+Total sentences loaded: 408460
+
+Counting 2-grams...
+
+Top 2-grams for spa:
+de la: 10999
+en el: 9595
+en la: 8954
+lo que: 8731
+a la: 8268
+es un: 5905
+que no: 5425
+por qué: 5029
+no es: 4751
+no me: 4391
+tom no: 4131
+es una: 4057
+a tom: 3879
+es el: 3730
+de los: 3699
+por favor: 3437
+no se: 3292
+de que: 3226
+es la: 3209
+a los: 2855
+
+Counting 3-grams...
+
+Top 3-grams for spa:
+por qué no: 1303
+todo lo que: 1116
+de lo que: 1021
+tom y mary: 875
+todo el mundo: 795
+todos los días: 698
+un poco de: 625
+no me gusta: 624
+no creo que: 552
+tom es un: 547
+a la escuela: 543
+es lo que: 538
+a tom le: 466
+seguro de que: 462
+no se puede: 449
+la mayoría de: 435
+uno de los: 433
+todo el día: 419
+a qué hora: 417
+a pesar de: 407
+
+Counting 4-grams...
+
+Top 4-grams for spa:
+la última vez que: 300
+estoy seguro de que: 278
+la primera vez que: 256
+a tom no le: 239
+fue la última vez: 208
+cuándo fue la última: 200
+la mayoría de los: 198
+de vez en cuando: 196
+es la primera vez: 193
+es uno de los: 178
+a tom le gusta: 173
+es hora de que: 149
+no puedo creer que: 144
+tom le dijo a: 142
+la verdad es que: 138
+por qué no me: 136
+no sé por qué: 132
+las dos y media: 130
+le dijo a mary: 128
+no es más que: 126
+
+Processing deu dataset...
+Total sentences loaded: 696576
+
+Counting 2-grams...
+
+Top 2-grams for deu:
+ich habe: 21885
+ich bin: 12307
+in der: 10357
+tom ist: 9742
+es ist: 9715
+das ist: 9624
+hast du: 9441
+tom hat: 9154
+ist ein: 9017
+tom und: 7423
+und maria: 6086
+er ist: 6054
+er hat: 5677
+ich kann: 5395
+ist das: 5257
+ist nicht: 5144
+ich werde: 5142
+dass ich: 5123
+ich weiß: 4925
+ist eine: 4741
+
+Counting 3-grams...
+
+Top 3-grams for deu:
+tom und maria: 5915
+ich weiß nicht: 1778
+tom ist ein: 1398
+das ist ein: 1204
+ich bin nicht: 1079
+ich weiß dass: 1018
+ich kann nicht: 1002
+das ist eine: 980
+er ist ein: 941
+ich habe mich: 808
+ich habe einen: 792
+ich habe das: 790
+den ganzen tag: 784
+tom ist nicht: 784
+ich habe eine: 773
+tut mir leid: 770
+ich habe keine: 744
+ich habe es: 744
+es ist nicht: 740
+ich habe tom: 738
+
+Counting 4-grams...
+
+Top 4-grams for deu:
+ich glaube nicht dass: 527
+es tut mir leid: 498
+daß tom und maria: 367
+maria sagten johannes dass: 363
+sagten johannes dass sie: 354
+ich weiß nicht was: 340
+ich weiß nicht ob: 295
+ich weiß nicht wie: 280
+ich kann mich nicht: 248
+nicht den unterschied zwischen: 241
+ich weiß dass tom: 237
+ich wusste nicht dass: 232
+hast du schon einmal: 232
+ich möchte dass du: 231
+maria sagten johannes sie: 225
+ich weiß dass du: 222
+
+Processing por dataset...
+Total sentences loaded: 433956
+
+Counting 2-grams...
+
+Top 2-grams for por:
+o que: 14373
+que você: 10297
+eu não: 10268
+tom não: 6947
+é um: 6746
+que eu: 6696
+que o: 6692
+não é: 6155
+por que: 6025
+é o: 5433
+é uma: 4921
+fazer isso: 4644
+é a: 4636
+você não: 4609
+acho que: 4529
+que não: 4057
+que ele: 4001
+para a: 3869
+para o: 3857
+
+Counting 3-grams...
+
+Top 3-grams for por:
+que o tom: 2954
+o que você: 2351
+por que você: 1971
+eu acho que: 1932
+o tom não: 1490
+que você não: 1225
+que você está: 1154
+tudo o que: 1099
+o que eu: 1028
+eu não sei: 965
+certeza de que: 929
+eu sei que: 874
+o que é: 870
+você acha que: 812
+com o tom: 785
+eu gostaria de: 783
+qual é o: 764
+
+Counting 4-grams...
+
+Top 4-grams for por:
+por que você não: 657
+tenho certeza de que: 456
+acho que o tom: 425
+não sei o que: 420
+por que você está: 416
+tom e a mary: 390
+eu não acho que: 373
+a primeira vez que: 314
+de vez em quando: 305
+é a primeira vez: 292
+o que você está: 289
+eu não sabia que: 285
+eu acho que você: 282
+tem certeza de que: 275
+eu não gosto de: 267
